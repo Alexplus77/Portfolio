@@ -1,8 +1,9 @@
-## [Cocktail List](https://github.com/Alexplus77/cocktailList) 
+##№ [Cocktail List](https://github.com/Alexplus77/cocktailList) 
 ### [DEMO](https://alexplus77.github.io/cocktailList/) 
-**_Выводит список каточек коктейлей. Список выводится через api с сервера._**
-**_Реализована адаптивная верстка. Код написан на vanilla javaScript._**
+![alt cocktailList](./image/cocktaillist.png)
+Выводит список каточек коктейлей. Список выводится через api с сервера.
+Реализована адаптивная верстка. Код написан на vanilla javaScript.
 
-## [Calendar](https://github.com/Alexplus77/calendar-react)  
+##№ [Calendar](https://github.com/Alexplus77/calendar-react)  
 ### [DEMO](https://alexplus77.github.io/calendar-react/)
-**_Календарь реализован на react._**
+Календарь реализован на react.
