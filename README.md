@@ -8,8 +8,6 @@
 
 ### [Calendar](https://github.com/Alexplus77/calendar-react)  
 #### [DEMO](https://alexplus77.github.io/calendar-react/)
-===
-
 
 ![alt calendar](./image/calendar.png)
 
